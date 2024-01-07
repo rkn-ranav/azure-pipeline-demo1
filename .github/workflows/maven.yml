@@ -23,12 +23,6 @@ jobs:
         distribution: 'adopt'
         java-version: '11'
 
-    - name: Set up Maven
-      uses: bahmutov/setup-java@v2
-      with:
-        distribution: 'maven'
-        java-version: '3.9.0'
-
     - name: Build with Maven
       run: |
         mvn clean compile package -B
