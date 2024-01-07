@@ -36,12 +36,6 @@
 
     <h2>Author: Vishwas RN</h2>
 
-    <p>Feel free to connect and learn more:</p>
-    <ul>
-        <li>Subscribe to K21 Academy's YouTube Channel: <a href="https://www.youtube.com/user/k21technologies" target="_blank">K21 Technologies</a></li>
-        <li>Follow us on <a href="https://k21academy.com/my-courses/" target="_blank">K21 Academy</a></li>
-    </ul>
-
     <p>Thank you for your interest in DevOps and automation. Happy coding!</p>
 </body>
 
